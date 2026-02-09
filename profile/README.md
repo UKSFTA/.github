@@ -25,4 +25,4 @@ We maintain a **Zero Trust** development environment. All contributors must adhe
 - [APL-SA Licensing](https://github.com/UKSFTA/UKSFTA-Tools/blob/main/LICENSE)
 
 ---
-*For unit membership and operations, visit [UKSFTA.co.uk](https://uksfta.co.uk)*
+*For unit membership and operations, visit [UKSFTA.github.io](https://uksfta.github.io)*
