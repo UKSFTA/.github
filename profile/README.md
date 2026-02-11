@@ -20,7 +20,7 @@ To provide the UKSFTA community with a seamless, high-fidelity tactical environm
 
 ## 📋 Participation
 We maintain a **Zero Trust** development environment. All contributors must adhere to our:
-- [Code of Conduct](https://github.com/UKSFTA/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Code of Conduct](/CODE_OF_CONDUCT.md)
 - [GPG Signing Requirements](https://github.com/UKSFTA/UKSFTA-Tools/wiki/Environment-Setup)
 - [APL-SA Licensing](https://github.com/UKSFTA/UKSFTA-Tools/blob/main/LICENSE)
 
