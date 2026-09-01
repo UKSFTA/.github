@@ -1,25 +1,28 @@
-# ⚔️ UKSF Taskforce Alpha | Technical Operations
+# UKSF Taskforce Alpha
 
-Welcome to the official technical hub of **UKSF Taskforce Alpha**, a premier Arma 3 tactical realism unit. We maintain a professional-grade development environment where technical excellence meets tactical simulation.
+Arma 3 tactical realism unit. Professional development environment supporting
+unit operations through automation and standardisation.
 
-## 🛡️ Platinum DevOps Infrastructure
+## Projects
 
-Our projects are managed by the **UKSFTA Platinum DevOps Suite**, a "Zero Trust" automation toolkit that enforces high standards across our entire ecosystem:
+- [**UKSFTA-Tools**](https://github.com/UKSFTA/UKSFTA-Tools) — DevOps suite for build, test, and deployment automation
+- [**UKSFTA-Bot**](https://github.com/UKSFTA/UKSFTA-Bot) — Discord bot for unit management
+- [**UKSFTA-BIS**](https://github.com/UKSFTA/UKSFTA-BIS) — C# library for Arma 3 BI file formats
+- [**UKSFTA-AOL**](https://github.com/UKSFTA/UKSFTA-AOL) — Arma 3 Linux server helper
+- [**UKSFTA-Mods**](https://github.com/UKSFTA/UKSFTA-Mods) — Unit-standard gameplay adjustments
+- [**UKSFTA-Maps**](https://github.com/UKSFTA/UKSFTA-Maps) — Training and campaign theatres
 
-- **🔐 Cryptographic Integrity**: 100% GPG-signed commit history and secure PBO signing.
-- **🚀 Continuous Assurance**: Every push undergoes deep semantic analysis (CodeQL), security auditing (Semgrep), and functional validation.
-- **📊 Living Documentation**: Automated API tracking and real-time health reporting for unit transparency.
-- **🏗️ Standardized VFS**: Unified Virtual File System (`z\uksfta`) to prevent mod conflicts and ensure stability.
+## Get Involved
 
-## 📦 Core Projects
+If you are a member of the UKSFTA Development Team, ensure your local
+environment is synchronised using the latest
+[UKSFTA-Tools](https://github.com/UKSFTA/UKSFTA-Tools).
 
-- [**UKSFTA-Tools**](https://github.com/UKSFTA/UKSFTA-Tools): The heart of our automation suite.
-- [**UKSFTA-Mods**](https://github.com/UKSFTA/UKSFTA-Mods): Our primary gameplay adjustments and unit-standard assets.
-- [**UKSFTA-Maps**](https://github.com/UKSFTA/UKSFTA-Maps): Training and campaign theaters optimized for unit operations.
+See [CONTRIBUTING.md](https://github.com/UKSFTA/.github/blob/main/CONTRIBUTING.md)
+for contribution guidelines.
 
-## 📡 Get Involved
+## Community
 
-If you are a member of the UKSFTA Development Team, please ensure your local environment is synchronized using the latest [**Platinum DevOps tools**](https://github.com/UKSFTA/UKSFTA-Tools).
-
----
-*Precision. Stability. Realism.*
+- [Discord](https://discord.gg/2jNqa3zPRH)
+- [Code of Conduct](https://github.com/UKSFTA/.github/blob/main/CODE_OF_CONDUCT.md)
+- [Security Policy](https://github.com/UKSFTA/.github/blob/main/SECURITY.md)

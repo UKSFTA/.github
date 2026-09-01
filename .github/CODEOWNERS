@@ -1,0 +1,20 @@
+# Code Owners for UKSFTA
+# https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Default: all repos
+* @MBarkerUK
+
+# Tools and DevOps
+UKSFTA-Tools/ @MBarkerUK
+
+# Discord Bot
+UKSFTA-Bot/ @MBarkerUK
+
+# BI File Format Library
+UKSFTA-BIS/ @MBarkerUK
+
+# Arma 3 Linux Helper
+UKSFTA-AOL/ @MBarkerUK
+
+# Organisation Portal
+UKSFTA.github.io/ @MBarkerUK
