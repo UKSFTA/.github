@@ -1,18 +1,24 @@
-name: Gitleaks Secret Scan
+# TruffleHog secret scanning - free, no license key required
+name: Secret Scan
+
 on:
   push:
     branches: [main, master]
   pull_request:
     branches: [main, master]
+
 permissions:
   contents: read
+
 jobs:
-  gitleaks:
+  trufflehog:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - uses: gitleaks/gitleaks-action@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: TruffleHog scan
+        uses: trufflesecurity/trufflehog@main
+        with:
+          extra_args: --only-verified
